@@ -1,24 +1,16 @@
-# website_proj_1
-The ultimate goal for this project is to create a portfolio website. Any projects I want to showcase to potential employers show be reachable from this app.
+# portfolio_2
 
-My knowledge as of now comes from the tutorial Flutter gives you in Codelab.
-[Link Here](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#8)
+A new Flutter project.
 
-After that, everything else implemented from my own research.
+## Getting Started
 
-# Resources
+This project is a starting point for a Flutter application.
 
-[Lorem Picsum](https://picsum.photos/)
+A few resources to get you started if this is your first Flutter project:
 
-[Example Pic]('https://picsum.photos/1920/1080')
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-???
-[Wit.ai](https://wit.ai/)
-
-[Left off here](https://api.flutter.dev/flutter/painting/ImageProvider-class.html#:~:text=ImageProvider%20class%20abstract,e.g.%20the%20device%20pixel%20ratio.)
-
-[Flutter GridView.builder Video](https://www.youtube.com/watch?v=xfcKuJzFQWg&ab_channel=FlutterTeacher)
-
-[Tip about implementing PreferredSizeWidget](https://stackoverflow.com/questions/60743721/how-to-add-add-implements-preferredsizewidget-in-stateful-widget)
-
-[Video that showed me how to implement the proper click-to-scroll feature while keeping my tabbar visible.](https://www.youtube.com/watch?v=ghmtP6TLa9U&list=PLyfGAIknOAuRCyNQerjnQhzsZyt4mpEmj&index=14&ab_channel=ShohruhAK)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

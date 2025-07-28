@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="website_proj_1"
+        android:label="portfolio_2"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
@@ -38,13 +38,8 @@
          In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin. -->
     <queries>
         <intent>
-            <!-- What flutter started with. -->
-            <!-- <action android:name="android.intent.action.PROCESS_TEXT"/>
-            <data android:mimeType="text/plain"/> -->
-            
-            <!-- Needed for flutter email sender. -->
-            <action android:name="android.intent.action.SENDTO" />
-            <data android:scheme="mailto" />
+            <action android:name="android.intent.action.PROCESS_TEXT"/>
+            <data android:mimeType="text/plain"/>
         </intent>
     </queries>
 </manifest>
